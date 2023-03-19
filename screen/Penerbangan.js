@@ -76,7 +76,7 @@ const Penerbangan = ({ navigation }) => {
           keyExtractor={item => item.id}
         />
       </SafeAreaView>
-      <Text style={styles.copyright}>Copyright Ahmad Nadhif Mu'afa - 120140218</Text>
+      <Text style={styles.copyright}>Copyright Tara Nadani Mozart - 120140039</Text>
     </View>
   );
 }
